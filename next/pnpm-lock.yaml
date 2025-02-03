@@ -30,8 +30,8 @@ importers:
         specifier: ^3.6.0
         version: 3.6.0
       jotai:
-        specifier: ^2.10.3
-        version: 2.10.3(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^2.11.2
+        version: 2.11.3(@types/react@19.0.1)(react@19.0.0)
       lucide-react:
         specifier: 0.468.0
         version: 0.468.0(react@19.0.0)
@@ -2675,8 +2675,8 @@ packages:
     resolution: {integrity: sha512-2yTgeWTWzMWkHu6Jp9NKgePDaYHbntiwvYuuJLbbN9vl7DC9DvXKOB2BC3ZZ92D3cvV/aflH0osDfwpHepQ53w==}
     hasBin: true
 
-  jotai@2.10.3:
-    resolution: {integrity: sha512-Nnf4IwrLhNfuz2JOQLI0V/AgwcpxvVy8Ec8PidIIDeRi4KCFpwTFIpHAAcU+yCgnw/oASYElq9UY0YdUUegsSA==}
+  jotai@2.11.3:
+    resolution: {integrity: sha512-B/PsewAQ0UOS5e2+TTWegUPQ3SCLPCjPY24LYUjfn2EorGlluTA2dFjVLgF1+xHLjK9Jit3y5mKHyMG3Xq/GZg==}
     engines: {node: '>=12.20.0'}
     peerDependencies:
       '@types/react': '>=17.0.0'
@@ -6578,7 +6578,7 @@ snapshots:
 
   jiti@1.21.6: {}
 
-  jotai@2.10.3(@types/react@19.0.1)(react@19.0.0):
+  jotai@2.11.3(@types/react@19.0.1)(react@19.0.0):
     optionalDependencies:
       '@types/react': 19.0.1
       react: 19.0.0
